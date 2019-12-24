@@ -78,6 +78,8 @@ function renderCards() {
 }
 renderCards();
 
+
+
 // показ карточек
 var cards = document.querySelectorAll('.map__card');
 var pins = document.querySelectorAll('.map__pin:not(.map__pin--main)');
